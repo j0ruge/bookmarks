@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :79: for Floccus bookmark sync browser extension -->
+
+<folder id="9">
+  <title>JRC</title>
+  <folder id="21">
+    <title>Monday</title>
+    <bookmark href="https://jrcbrasil-team.monday.com/boards/7199150079" id="47">
+      <title>IT API Test Board</title>
+    </bookmark>
+    <bookmark href="https://jrcbrasil-team.monday.com/apps/playground" id="48">
+      <title>Monday - Playground</title>
+    </bookmark>
+  </folder>
+  <folder id="22">
+    <title>Design</title>
+    <bookmark href="https://logovtor.com/latest-logos/" id="49">
+      <title>Latest Vector Logos - Logovtor.Com</title>
+    </bookmark>
+  </folder>
+  <folder id="23">
+    <title>Tools</title>
+    <bookmark href="https://drive.google.com/drive/u/0/my-drive" id="50">
+      <title>Meu Drive - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://calendar.google.com/calendar/render?tab=mc&amp;pli=1#main_7" id="51">
+      <title>JRC do Brasil - Agenda</title>
+    </bookmark>
+    <bookmark href="https://photos.google.com/" id="52">
+      <title>Fotos - Google Fotos</title>
+    </bookmark>
+    <bookmark href="http://192.168.0.9:8008/zabbix/zabbix.php?action=dashboard.view" id="53">
+      <title>1984: Dashboard</title>
+    </bookmark>
+  </folder>
+  <folder id="24">
+    <title>Service</title>
+    <bookmark href="https://www.e-corporateplus.com.br/flytour/default.aspx?cliente=jrcbrasil" id="54">
+      <title>::. ARGO .::</title>
+    </bookmark>
+    <bookmark href="https://meet.google.com/frf-vnkt-vsp" id="55">
+      <title>Semanal Técnica</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://admin.google.com/ac/home" id="25">
+    <title>Admin Console</title>
+  </bookmark>
+  <bookmark href="http://jrcbrasil.com/produtos/catalogo/" id="26">
+    <title>jrcbrasil.com</title>
+  </bookmark>
+  <bookmark href="https://warehouse.jrcbrasil.com/dashboard" id="27">
+    <title>WareHouse Explorer</title>
+  </bookmark>
+  <bookmark href="http://wiki.jrcbrasil.com.br/index.php/P%C3%A1gina_principal" id="28">
+    <title>Wiki JRC</title>
+  </bookmark>
+  <bookmark href="https://www-eu.msweb.jp/msdroot/login.php" id="56">
+    <title>MS-WEB - login page</title>
+  </bookmark>
+  <bookmark href="https://wiki.jrcbrasil.com.br/index.php/Lista_de_Ramais" id="57">
+    <title>Lista de Ramais - JRC Wiki</title>
+  </bookmark>
+  <bookmark href="http://jrcbr-rj-s07:8080/BC220/" id="58">
+    <title>Business Central [Interno]</title>
+  </bookmark>
+  <bookmark href="https://bc.jrcbrasil.com.br/JRC-HML/" id="59">
+    <title>Business Central [Homologação]</title>
+  </bookmark>
+  <bookmark href="https://bc.jrcbrasil.com.br/BC220/" id="60">
+    <title>Business Central [Externo]</title>
+  </bookmark>
+  <folder id="61">
+    <title>Grupos</title>
+    <bookmark href="https://groups.google.com/all-groups" id="29">
+      <title>Todos os grupos</title>
+    </bookmark>
+    <bookmark href="https://groups.google.com/a/jrcbrasil.com.br/g/logistics" id="66">
+      <title>Departamento de Logística - Grupos do Google</title>
+    </bookmark>
+    <bookmark href="https://groups.google.com/a/jrcbrasil.com/g/it" id="78">
+      <title>it - Grupos do Google</title>
+    </bookmark>
+  </folder>
+  <folder id="67">
+    <title>Telefonia</title>
+    <bookmark href="https://vivogestao.vivoempresas.com.br/Portal/data/consumption?filter=false" id="69">
+      <title>Vivo Gestão Empresas</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1vIoMGgBcYe2UdEMLx7jymwgq5S1oGzOZHVSP5LEHL_0/edit#gid=1828804454" id="70">
+      <title>cosnsumo_dados_movel_vivo - Planilhas Google</title>
+    </bookmark>
+  </folder>
+  <folder id="68">
+    <title>VDA</title>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1eFmdTKccvSfQsxjhSaF3PW2G9F-34_4CGH4gTcHuIKM/edit#gid=0" id="71">
+      <title>controle_de_licenca - Planilhas Google</title>
+    </bookmark>
+    <bookmark href="https://jrcbrasil.com/vdr-datanalyzer/" id="72">
+      <title>VDR | DATANALYZER | JRC Brasil</title>
+    </bookmark>
+    <bookmark href="https://jrcbrasil.com/vdr-datanalyzer/#thedownloads" id="73">
+      <title>VDR | DATANALYZER - Downloads</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="8">
+  <title>TI</title>
+  <folder id="14">
+    <title>Jira</title>
+    <bookmark href="https://jrcbrasil.atlassian.net/jira/your-work" id="31">
+      <title>Seu trabalho - Jira</title>
+    </bookmark>
+    <bookmark href="https://jrcbrasil.atlassian.net/jira/software/projects/VDA/boards/3/backlog" id="32">
+      <title>Código - Jira</title>
+    </bookmark>
+    <bookmark href="https://jrcbrasil.atlassian.net/jira/software/projects/VDA/boards/3" id="74">
+      <title>VDA</title>
+    </bookmark>
+  </folder>
+  <folder id="15">
+    <title>Tools</title>
+    <bookmark href="https://emojidb.org/work-emojis?user_typed_query=1&amp;utm_source=user_search" id="33">
+      <title>Emojis | Copy &amp; Paste</title>
+    </bookmark>
+    <bookmark href="https://mxtoolbox.com/DnsLookup.aspx" id="34">
+      <title>Check your DNS MX Records online - MxToolbox</title>
+    </bookmark>
+    <bookmark href="https://www.ssllabs.com/ssltest/analyze.htm" id="35">
+      <title>SSL Server Test (Powered by Qualys SSL Labs)</title>
+    </bookmark>
+    <bookmark href="https://www.4devs.com.br/calculadora_regra_tres_simples" id="36">
+      <title>Calculadora de Regra de 3 Simples: calcule aqui! - 4Devs</title>
+    </bookmark>
+    <bookmark href="https://gamma.app/create" id="75">
+      <title>Gamma</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://meet.google.com/iaz-ornm-fwo" id="16">
+    <title>Meet: iaz-ornm-fwo</title>
+  </bookmark>
+  <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="17">
+    <title>e-Mail</title>
+  </bookmark>
+  <bookmark href="http://ocs.jrcbrasil.com.br/ocsreports/" id="18">
+    <title>OCS Inventory</title>
+  </bookmark>
+  <folder id="19">
+    <title>Trello</title>
+    <bookmark href="https://trello.com/b/gpCAV3no/it" id="37">
+      <title>IT | Trello</title>
+    </bookmark>
+    <bookmark href="https://trello.com/jrcbrasil" id="38">
+      <title>JRC Brasil (jrcbrasil) | Trello</title>
+    </bookmark>
+    <bookmark href="https://trello.com/b/w59Lseng/controle-de-apt" id="39">
+      <title>Controle de APT</title>
+    </bookmark>
+    <bookmark href="https://trello.com/b/xHmpB9Vv/sales" id="40">
+      <title>Sales | Trello</title>
+    </bookmark>
+    <bookmark href="https://trello.com/b/z0R2Sxkj/an%C3%A1lise-cr%C3%ADtica" id="41">
+      <title>Análise Crítica | Trello</title>
+    </bookmark>
+    <bookmark href="https://trello.com/b/9DmGixBK/cota%C3%A7%C3%A3o-de-spare-parts" id="42">
+      <title>Cotação de Spare Parts | Trello</title>
+    </bookmark>
+    <bookmark href="https://trello.com/b/gpCAV3no/sistemas" id="43">
+      <title>Sistemas | Trello</title>
+    </bookmark>
+    <bookmark href="https://trello.com/b/GIn8UlTF/estimates" id="44">
+      <title>Estimates | Trello</title>
+    </bookmark>
+    <bookmark href="https://trello.com/b/QZ0hKzjU/pessoal" id="45">
+      <title>Pessoal | Trello</title>
+    </bookmark>
+    <bookmark href="https://trello.status.atlassian.com/" id="46">
+      <title>Trello Status</title>
+    </bookmark>
+    <bookmark href="https://trello.com/b/iIbu1IOu/controle-de-atendimento" id="62">
+      <title>Controle de Atendimento | Trello</title>
+    </bookmark>
+    <bookmark href="https://jrcbrasil.atlassian.net/wiki/spaces/KBN/pages/15859718/Desenho+da+solu+o+Controle+de+Atendimento" id="63">
+      <title>Projeto: Controle de Atendimento</title>
+    </bookmark>
+    <bookmark href="https://trello.com/b/1LeL6vcG/pedidos-de-compras" id="64">
+      <title>Pedidos de Compras | Trello</title>
+    </bookmark>
+    <bookmark href="http://127.0.0.1:5500/diagramas-uml.html" id="65">
+      <title>Diagramas UML</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://chat.chatbotapp.ai/?model=gpt-4o" id="20">
+    <title>Chatbot App - AI Chatbot</title>
+  </bookmark>
+  <folder id="76">
+    <title>Development</title>
+    <bookmark href="https://studio.firebase.google.com/?hl=pt-br&amp;_gl=1*tj0r8g*_ga*ODk0Mjk3NzkzLjE3NDQ3NDI3OTM.*_ga_CW55HF8NVT*MTc0NDc0Mjc5My4xLjEuMTc0NDc0MjgwOS40NC4wLjA." id="77">
+      <title>Firebase Studio</title>
+    </bookmark>
+    <bookmark href="https://github.com/settings/organizations" id="79">
+      <title>Organizations</title>
+    </bookmark>
+  </folder>
+</folder>
+<bookmark href="https://meet.google.com/" id="1">
+  <title>Meet</title>
+</bookmark>
+<bookmark href="http://wiki.genesys.srv.br/" id="2">
+  <title>Wiki GMS</title>
+</bookmark>
+<bookmark href="https://translate.google.com.br/?hl=pt-BR&amp;tab=wT1" id="3">
+  <title>Google Tradutor</title>
+</bookmark>
+<bookmark href="https://calendar.google.com/calendar/r?tab=mc&amp;pli=1#main_7" id="4">
+  <title>Calendar</title>
+</bookmark>
+<bookmark href="https://console.cloud.google.com/?cloudshell=true" id="5">
+  <title>Cloud Shell</title>
+</bookmark>
+<bookmark href="https://jrcbrasil.com/" id="6">
+  <title>jrcbrasil.com</title>
+</bookmark>
+<folder id="7">
+  <title>Pessoal</title>
+  <bookmark href="https://conectesus-paciente.saude.gov.br/menu/detalhe-vacina" id="10">
+    <title>ConecteSUS</title>
+  </bookmark>
+  <bookmark href="https://www.humblebundle.com/" id="11">
+    <title>Humble Bundle | game bundles, book bundles, software bundles, and more</title>
+  </bookmark>
+  <bookmark href="https://app.diagrams.net/#G1LQ8kASMs2fsW7eCz1tQq8-6tNVx7Guh9" id="12">
+    <title>Topologia_MMA.drawio - diagrams.net</title>
+  </bookmark>
+  <bookmark href="https://www.linguee.com/english-japanese" id="13">
+    <title>Linguee | English-Japanese dictionary</title>
+  </bookmark>
+</folder>
+</xbel>
